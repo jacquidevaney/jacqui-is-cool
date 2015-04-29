@@ -1,0 +1,130 @@
+
+background { url(http://upload.wikimedia.org/wikipedia/commons/3/39/NYC_Top_of_the_Rock_Pano.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: black;
+  color: #000000;
+  display: table;
+  height: 700px;
+  text-align: center;
+  width: 100%;
+  margin-top: 0;
+  border-top-width: 0;
+}
+
+
+
+h1 { 
+	font-family: 'Fira Sans', sans-serif;
+	text-align: center;
+	font-size: 50px;
+	width: 100%;
+}
+
+h2 { 
+	font-family: 'Fira Sans', sans-serif;
+	text-align: center;
+	width: 100%;
+}
+
+.entire-project { 
+	font-family: nyt-cheltenham,Georgia,"Times New Roman",serif;
+	width:600px;
+	margin:20px auto;
+}
+
+hr { 
+width: 100px;
+}
+
+
+p { 
+	line-height: 25px;
+	width: 100%;
+}
+.article-header .lead-img {
+  background: url(headimage.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1532px;
+  
+}
+
+.article-header .lead-img { 
+	width:100%;
+	max-height: 500px;
+	background-position: center;
+	overflow: hidden;
+	position: relative;
+}
+
+.headline-stuff { 
+	position: absolute;
+	top: 20%;
+	left: 3%;
+	color: white;
+}
+.slug { 
+	margin-top:30px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.byline { 
+	text-align: center;
+	margin: 20px;
+	font-size: 10px;
+}
+
+.introduction { 
+	width: 325px;
+	margin: 50px 10px 10px 10px;
+	right: 30px;
+	top: -80px;
+	position: absolute;
+	text-align: center;
+}
+.container {
+	margin-bottom: 50px;
+	position: relative;
+	width: 100%;
+}
+
+.container-brew { 
+	margin-bottom: 50px;
+	position: relative;
+	width: 100%;
+	right: 75px;
+}
+.bottom-border { 
+  border-bottom: 1px solid white; 
+  right: 42%;
+  width: 200px;
+  margin: 5px auto;
+  margin-bottom: 10px;
+}
+
+
+.beer-state-chart { 
+	margin: 50px 5px 50px 5px;
+	right: 40px;
+	width: 100%;
+}
+
+
+.state-beer-text { 
+	margin-bottom: 50px;
+	right: 40px;
+}
+
+.popular-beer-text { 
+	margin-top: 20px;
+	width: 600px;
+	margin-bottom: 50px;
+
+}
+
+
+
